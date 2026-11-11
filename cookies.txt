@@ -1,0 +1,2 @@
+# Netscape HTTP Cookie File
+# OPTIONAL: Place exported Netscape cookies here if needed for authenticated sessions.

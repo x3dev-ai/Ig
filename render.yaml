@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: telegram-social-downloader-bot-v3
+    runtime: docker
+    plan: free
+    envVars:
+      - key: BOT_TOKEN
+        value: 8941723408:AAFWPuHBXycHCpS8spKT68t5IigMJ7nbPuk
+      - key: PORT
+        value: 8080
+      - key: AD_TEXT
+        value: "🔥 Sponsor / Advertise Here — Contact Admin"
+      - key: AD_URL
+        value: "https://t.me/telegram"
